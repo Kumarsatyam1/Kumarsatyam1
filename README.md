@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kumarsatyam1
-- 👀 I’m interested in Networking (Routing & Switching)
+- 👀 I’m interested in Networking (Routing & Switching) DOne CISCO CCNA(R&S)
 - 🌱 I’m currently learning Python, CCNA, CCNP
 - 💞️ I’m looking to collaborate on networking stuff, some code for automation
 - 📫 How to reach me LinkedIn www.linkedin.com/in/kumar-satyam-201700114
